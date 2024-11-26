@@ -1,3 +1,7 @@
+# BioMed Data Mining Term Project
+Implement a program to predict the secondary structure commonly shared in an RNA 
+family.
+
 ## Method Overview
 
 * Uses covariation analysis to identify conserved base pairs across the RNA family
@@ -13,7 +17,7 @@
 * Output formatting in the required notation
 
 
-## Algorithm Steps:
+## Algorithm Steps
 
 * Read FASTA sequences
 * Create/handle multiple sequence alignment
@@ -22,7 +26,7 @@
 * Generate dot-bracket notation for the predicted structure
 
 
-## Performance Considerations:
+## Performance Considerations
 
 * The program tracks TP, TN, FP, and FN implicitly through the covariation scoring
 * Uses a minimum score threshold (default 0.75) to control prediction stringency
