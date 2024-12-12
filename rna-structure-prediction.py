@@ -1,10 +1,6 @@
 import numpy as np
 from collections import defaultdict
 from Bio import SeqIO
-from Bio import AlignIO
-from Bio.Align import MultipleSeqAlignment
-from Bio.Seq import Seq
-from Bio.SeqRecord import SeqRecord
 
 class RNAStructurePredictor:
     def __init__(self):
