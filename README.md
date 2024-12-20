@@ -1,4 +1,4 @@
-# BioMed Data Mining Term Project
+# [BioMed Data Mining Term Project](https://github.com/SUNGOD3/BioMed-Data-Mining-Term-Project)
 Implement a program to predict the secondary structure commonly shared in an RNA 
 family.
 
